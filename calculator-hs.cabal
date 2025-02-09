@@ -68,6 +68,8 @@ library
         AST.Types
         AST.Types.Number
 
+        Eval
+
     -- Modules included in this library but not exported.
     -- other-modules:
 
